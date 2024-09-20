@@ -21,6 +21,7 @@ To install the required packages, run:
 pip install -r requirements.txt
 ```
 
+Code runs by running the following:
 ```bash
 git clone https://github.com/vibhuverma17/RECXGB.git
 cd RECXGB
