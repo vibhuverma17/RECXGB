@@ -1,0 +1,10 @@
+imbalanced_learn
+matplotlib
+numpy
+pandas
+PyNomaly
+scikit_learn
+scipy
+xgboost
+umap-learn
+hdbscan
