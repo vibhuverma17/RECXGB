@@ -1,6 +1,6 @@
 # RECXGB
 
-RECXGB is a repository designed for implementing a recommendation system using XGBoost. This project showcases the implementation and evaluation of models that leverage the power of XGBoost for specific use cases.
+RECXGB is a repository designed for implementing anamolly detection system using XGBoost. This project showcases the implementation and evaluation of models that leverage the power of XGBoost and recursive clustering for specific use cases.
 
 ## Features
 
