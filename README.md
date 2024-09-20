@@ -1,6 +1,6 @@
 # RECXGB
 
-RECXGB is a repository designed for implementing anamolly detection system using XGBoost. This project showcases the implementation and evaluation of models that leverage the power of XGBoost and recursive clustering for specific use cases.
+RECXGB is a repository designed for developing an anomaly detection system using XGBoost. This project highlights the implementation and evaluation of models that utilize the capabilities of XGBoost and recursive clustering for various applications.
 
 ## Features
 
