@@ -19,3 +19,13 @@ To install the required packages, run:
 
 ```bash
 pip install -r requirements.txt
+```
+
+```bash
+git clone https://github.com/vibhuverma17/RECXGB.git
+cd RECXGB
+```
+
+```bash
+jupyter notebook demo_notebook.ipynb
+```
